@@ -1,5 +1,6 @@
 .show{
     background-color: #fab;
     color:palevioletred;
+    font-size: 45px;
     transition: .5s;
 }
